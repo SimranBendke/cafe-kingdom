@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Café Kingdom: Online Coffee Ordering</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>☕ Café Kingdom</h1>
+    <p>Order your favorite coffee online</p>
+  </header>
+
+  <main>
+    <section class="menu">
+      <h2>Our Menu</h2>
+      <ul id="coffee-list"></ul>
+    </section>
+
+    <section class="order">
+      <h2>Place Your Order</h2>
+      <form id="order-form">
+        <label for="coffee">Choose your coffee:</label>
+        <select id="coffee" required>
+          <option value="">Select</option>
+        </select>
+
+        <label for="size">Size:</label>
+        <select id="size" required>
+          <option value="small">Small</option>
+          <option value="medium">Medium</option>
+          <option value="large">Large</option>
+        </select>
+
+        <button type="submit">Order Now</button>
+      </form>
+      <p id="confirmation"></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Café Kingdom</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f9f5f0;
+  margin: 0;
+  color: #3e2723;
+  text-align: center;
+}
+
+header {
+  background-color: #6f4e37;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.menu li {
+  margin: 10px 0;
+}
+
+button {
+  background-color: #6f4e37;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #8b5e3c;
+}
