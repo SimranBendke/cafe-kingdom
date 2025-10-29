@@ -1,11 +1,9 @@
 # Café Kingdom: Online Coffee Ordering System
 
-**Café Kingdom** is a static web-based prototype for an online coffee ordering system.  
+*Café Kingdom* is a static web-based prototype for an online coffee ordering system.  
 It allows users to explore a coffee menu, choose their favorite brews, and place mock orders — all through a clean, responsive interface.
 
----
-
-## Features
+# Features
 
 - Interactive coffee menu with prices in ₹  
 - Simple ordering form with confirmation message  
