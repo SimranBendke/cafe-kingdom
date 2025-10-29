@@ -5,7 +5,7 @@ It allows users to explore a coffee menu, choose their favorite brews, and place
 
 # Features
 
-- Interactive coffee menu with prices in ₹  
+- Interactive coffee menu with prices 
 - Simple ordering form with confirmation message  
 - Built using HTML, CSS, and JavaScript  
 - Fully responsive and mobile-friendly design  
